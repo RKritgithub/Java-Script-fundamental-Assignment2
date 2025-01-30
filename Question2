@@ -1,0 +1,9 @@
+Question 2: Explain the key differences between JavaScript and HTML. Provide examples of situations where
+you would use each.
+
+Answer2:
+Feature	||  HTML (HyperText Markup Language)     ||	JavaScript
+Purpose	||Structures content on a webpage	      ||Adds interactivity and functionality
+Type	||      Markup language	                     ||Programming language 
+Execution||	  Read by browsers to display content	  ||Runs in the browser's JavaScript engine
+Usage Example||	Creating headings, paragraphs, images ||Handling form validation, animations, dynamic updates

@@ -1,0 +1,17 @@
+Question 4: What is the purpose of declaring variables in JavaScript, and how do you declare them using the
+'let' keyword?
+
+Answers:
+
+Variables store and manage data in a program, making it dynamic and reusable. They help in:  
+ **Storing values** (e.g., user input, calculations)  
+ **Reusing data** throughout the script  
+**Improving readability and maintainability**  
+
+The `let` keyword allows declaring a variable that **can be updated but not re-declared** in the same scope.  
+
+```javascript
+let name = "Ravneet"; 
+name = "Kaur"; // Allowed
+```
+
